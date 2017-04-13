@@ -19,7 +19,7 @@ See packages:
 1. [endeo](https://www.npmjs.com/package/endeo)
 2. [enbyte](https://www.npmjs.com/package/enbyte)
 3. [debyte](https://www.npmjs.com/package/debyte)
-4. [debyter](https://www.npmjs.com/package/debyter)
+4. [debytes](https://www.npmjs.com/package/debytes)
 
 NOTE: placeholder
 
